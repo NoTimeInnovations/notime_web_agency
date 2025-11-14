@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Shiptech-Icon",
+    "description": "Website for a Ship designing company",
+    "image": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "link": "https://www.shiptech-icon.com"
+  },
+  {
+    "id": 2,
+    "name": "Urban Eats",
+    "description": "Food delivery app with intuitive UI and seamless ordering experience",
+    "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "link": "https://example.com/urbaneats"
+  },
+  {
+    "id": 3,
+    "name": "FitLife Pro",
+    "description": "Fitness tracking platform with personalized workout plans and nutrition guidance",
+    "image": "https://images.pexels.com/photos/4162449/pexels-photo-4162449.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "link": "https://example.com/fitlife"
+  }
+]
