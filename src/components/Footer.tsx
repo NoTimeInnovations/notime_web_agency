@@ -1,4 +1,4 @@
-import { Zap, Twitter, Linkedin, Github, Instagram } from 'lucide-react';
+import { Zap } from 'lucide-react';
 
 export default function Footer() {
   return (
@@ -15,20 +15,6 @@ export default function Footer() {
             <p className="text-slate-400 mb-6 max-w-md">
               Professional websites delivered in 48 hours. Quality, speed, and innovation combined.
             </p>
-            <div className="flex gap-3">
-              <a href="#" className="w-10 h-10 bg-white/5 border border-white/10 rounded-lg flex items-center justify-center hover:bg-cyan-500 hover:border-cyan-500 transition-all duration-300">
-                <Twitter className="w-5 h-5 text-white" />
-              </a>
-              <a href="#" className="w-10 h-10 bg-white/5 border border-white/10 rounded-lg flex items-center justify-center hover:bg-cyan-500 hover:border-cyan-500 transition-all duration-300">
-                <Linkedin className="w-5 h-5 text-white" />
-              </a>
-              <a href="#" className="w-10 h-10 bg-white/5 border border-white/10 rounded-lg flex items-center justify-center hover:bg-cyan-500 hover:border-cyan-500 transition-all duration-300">
-                <Github className="w-5 h-5 text-white" />
-              </a>
-              <a href="#" className="w-10 h-10 bg-white/5 border border-white/10 rounded-lg flex items-center justify-center hover:bg-cyan-500 hover:border-cyan-500 transition-all duration-300">
-                <Instagram className="w-5 h-5 text-white" />
-              </a>
-            </div>
           </div>
 
           <div>
@@ -45,9 +31,7 @@ export default function Footer() {
             <h3 className="text-white font-semibold mb-4">Company</h3>
             <ul className="space-y-2">
               <li><a href="#portfolio" className="text-slate-400 hover:text-cyan-400 transition-colors">Portfolio</a></li>
-              <li><a href="#" className="text-slate-400 hover:text-cyan-400 transition-colors">About Us</a></li>
               <li><a href="#contact" className="text-slate-400 hover:text-cyan-400 transition-colors">Contact</a></li>
-              <li><a href="#" className="text-slate-400 hover:text-cyan-400 transition-colors">Blog</a></li>
             </ul>
           </div>
         </div>

@@ -1,20 +1,23 @@
-import { Linkedin, Github } from 'lucide-react';
+import { Linkedin } from 'lucide-react';
 
 const team = [
   {
     name: 'Muhammed Rinshad S R',
     role: 'CEO of NoTime and Cravings',
-    image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400'
+    image: '/public/members/rinshad.png',
+    linkedin: 'https://www.linkedin.com/in/muhammedrinshad/'
   },
   {
     name: 'Thrisha',
     role: 'CTO of NoTime',
-    image: 'https://images.pexels.com/photos/3756679/pexels-photo-3756679.jpeg?auto=compress&cs=tinysrgb&w=400'
+    image: '/public/members/thrisha.jpg',
+    linkedin: 'https://www.linkedin.com/in/thrishakannan/'
   },
   {
     name: 'Abhin',
     role: 'Full Stack Developer',
-    image: 'https://images.pexels.com/photos/1181690/pexels-photo-1181690.jpeg?auto=compress&cs=tinysrgb&w=400'
+    image: '/public/members/abhin.png',
+    linkedin: 'https://www.linkedin.com/in/abhin-ks-a98543258/'
   }
 ];
 
@@ -53,12 +56,6 @@ export default function Team() {
                     className="w-10 h-10 bg-white/5 border border-white/10 rounded-lg flex items-center justify-center hover:bg-cyan-500 hover:border-cyan-500 transition-all duration-300"
                   >
                     <Linkedin className="w-5 h-5 text-white" />
-                  </a>
-                  <a
-                    href="#"
-                    className="w-10 h-10 bg-white/5 border border-white/10 rounded-lg flex items-center justify-center hover:bg-cyan-500 hover:border-cyan-500 transition-all duration-300"
-                  >
-                    <Github className="w-5 h-5 text-white" />
                   </a>
                 </div>
               </div>
