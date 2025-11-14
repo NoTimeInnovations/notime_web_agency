@@ -3,21 +3,21 @@
     "id": 1,
     "name": "Shiptech-Icon",
     "description": "Website for a Ship designing company",
-    "image": "/public/ship.png",
+    "image": "/ship.png",
     "link": "https://www.shiptech-icon.com"
   },
   {
     "id": 2,
     "name": "Focuz Holidays",
     "description": "Website for a Tourisim company",
-    "image": "/public/holidays.png",
+    "image": "/holidays.png",
     "link": "https://www.focuzholidays.com"
   },
   {
     "id": 3,
     "name": "Sharon Industries",
     "description": "Website for a Concreate precast company",
-    "image": "/public/sharon.png",
+    "image": "/sharon.png",
     "link": "https://www.sharonindustry.com"
   }
 ]

@@ -4,19 +4,19 @@ const team = [
   {
     name: 'Muhammed Rinshad S R',
     role: 'CEO of NoTime and Cravings',
-    image: '/public/members/rinshad.png',
+    image: '/members/rinshad.png',
     linkedin: 'https://www.linkedin.com/in/muhammedrinshad/'
   },
   {
     name: 'Thrisha',
     role: 'CTO of NoTime',
-    image: '/public/members/thrisha.jpg',
+    image: '/members/thrisha.jpg',
     linkedin: 'https://www.linkedin.com/in/thrishakannan/'
   },
   {
     name: 'Abhin',
     role: 'Full Stack Developer',
-    image: '/public/members/abhin.png',
+    image: '/members/abhin.png',
     linkedin: 'https://www.linkedin.com/in/abhin-ks-a98543258/'
   }
 ];
